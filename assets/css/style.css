@@ -899,7 +899,7 @@ canvas {
 .sidenav .logo {
     position: absolute;
     top: 40px;
-    left: 25px;
+    left: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
